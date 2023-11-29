@@ -1,0 +1,31 @@
+h1 {font-family: monospace;color:#009999;font-style:italic;font-size:35px;padding:35px}
+@font-face {font-family: monospace)format(:opentypeface);}
+.header {
+padding:45px;
+text-align: center;
+background: #FF5733;
+color:white ;
+font-size:50px
+}
+img {float:right;width:200px;padding:50px}
+p {font-family: monospace;text-align:left;color:#f9330f;font-size:18px;padding:35px}
+
+footer {    
+
+   position: fixed;
+
+   left: 0;
+
+   bottom: 0;
+
+   width: 100%;
+
+   background-color:antiquewhite;
+
+   color: black;
+
+   text-align: center;
+
+        }
+h2 {font-family:monospace;color:#009999;font-style:italic;font-size:25px;padding:35px}
+h4 {font-family: monospace;color:#009999;font-style:italic;font-size:20px;padding:35px}
